@@ -61,7 +61,7 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 - ansible allows automatic deployment to multiple machines with the playbook function
 
 The playbook implements the following tasks:
-- _Install and Download docker, curl filebeat/metricbeat config files, load and install filebeat/metricbeat, install and setup filebeat/metricbeat
+- Install and Download docker, curl filebeat/metricbeat config files, load and install filebeat/metricbeat, install and setup filebeat/metricbeat
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
