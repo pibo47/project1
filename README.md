@@ -32,7 +32,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux            |
+| Jump Box | Gateway  | 10.0.0.4   | Linux            |
 | Elk-VM   | Server   | 10.1.0.4   | Linux            |
 | Web1     | Server   | 10.0.0.5   | DVWA             |
 | Web2     | Server   | 10.0.0.6   | DVWA             |
