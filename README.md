@@ -53,7 +53,7 @@ A summary of the access policies in place can be found in the table below.
 |----------|---------------------|----------------------|
 | Jump Box | Yes                 | 108.71.180.87        |
 | Elk-VM   | No                  | 10.0.0.4             |
-| Ansible  | No                  | 10.0.0.1             |
+| Ansible  | No                  | 10.1.0.4             |
 
 ### Elk Configuration
 
